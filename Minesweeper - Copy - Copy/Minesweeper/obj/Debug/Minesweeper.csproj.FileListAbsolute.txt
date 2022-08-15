@@ -1,0 +1,37 @@
+C:\Users\faiza\source\repos\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\faiza\source\repos\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\faiza\source\repos\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\faiza\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.AssemblyReference.cache
+C:\Users\faiza\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.SuggestedBindingRedirects.cache
+C:\Users\faiza\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Form1.resources
+C:\Users\faiza\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Form2.resources
+C:\Users\faiza\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\faiza\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.UserControl1.resources
+C:\Users\faiza\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.cache
+C:\Users\faiza\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\faiza\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\faiza\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\muhammad.nouman\source\repos\Minesweeper-main\Minesweeper-main\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\muhammad.nouman\source\repos\Minesweeper-main\Minesweeper-main\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\muhammad.nouman\source\repos\Minesweeper-main\Minesweeper-main\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\muhammad.nouman\source\repos\Minesweeper-main\Minesweeper-main\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csprojAssemblyReference.cache
+C:\Users\muhammad.nouman\source\repos\Minesweeper-main\Minesweeper-main\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Form1.resources
+C:\Users\muhammad.nouman\source\repos\Minesweeper-main\Minesweeper-main\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Form2.resources
+C:\Users\muhammad.nouman\source\repos\Minesweeper-main\Minesweeper-main\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\muhammad.nouman\source\repos\Minesweeper-main\Minesweeper-main\Minesweeper\Minesweeper\obj\Debug\Minesweeper.UserControl1.resources
+C:\Users\muhammad.nouman\source\repos\Minesweeper-main\Minesweeper-main\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.cache
+C:\Users\muhammad.nouman\source\repos\Minesweeper-main\Minesweeper-main\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\muhammad.nouman\source\repos\Minesweeper-main\Minesweeper-main\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\muhammad.nouman\source\repos\Minesweeper-main\Minesweeper-main\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Form3.resources
+C:\Users\muhammad.nouman\Downloads\Minesweeper-main (1)\Minesweeper-main\Minesweeper - Copy\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\muhammad.nouman\Downloads\Minesweeper-main (1)\Minesweeper-main\Minesweeper - Copy\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\muhammad.nouman\Downloads\Minesweeper-main (1)\Minesweeper-main\Minesweeper - Copy\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\muhammad.nouman\Downloads\Minesweeper-main (1)\Minesweeper-main\Minesweeper - Copy\Minesweeper\obj\Debug\Minesweeper.csprojAssemblyReference.cache
+C:\Users\muhammad.nouman\Downloads\Minesweeper-main (1)\Minesweeper-main\Minesweeper - Copy\Minesweeper\obj\Debug\Minesweeper.Form1.resources
+C:\Users\muhammad.nouman\Downloads\Minesweeper-main (1)\Minesweeper-main\Minesweeper - Copy\Minesweeper\obj\Debug\Minesweeper.Form2.resources
+C:\Users\muhammad.nouman\Downloads\Minesweeper-main (1)\Minesweeper-main\Minesweeper - Copy\Minesweeper\obj\Debug\Minesweeper.Form3.resources
+C:\Users\muhammad.nouman\Downloads\Minesweeper-main (1)\Minesweeper-main\Minesweeper - Copy\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\muhammad.nouman\Downloads\Minesweeper-main (1)\Minesweeper-main\Minesweeper - Copy\Minesweeper\obj\Debug\Minesweeper.UserControl1.resources
+C:\Users\muhammad.nouman\Downloads\Minesweeper-main (1)\Minesweeper-main\Minesweeper - Copy\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.cache
+C:\Users\muhammad.nouman\Downloads\Minesweeper-main (1)\Minesweeper-main\Minesweeper - Copy\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\muhammad.nouman\Downloads\Minesweeper-main (1)\Minesweeper-main\Minesweeper - Copy\Minesweeper\obj\Debug\Minesweeper.pdb
